@@ -8,10 +8,9 @@ The code utilizes basic Arduino functions to read digital inputs, perform additi
 
 ## Installation
 1. Download and install the [Arduino IDE](https://www.arduino.cc/en/software).
-2. Connect your Arduino board to the computer using a USB cable.
-3. Copy the provided code below.
-4. Paste the code into the Arduino IDE.
-5. Upload the code to your Arduino board.
+2. Copy the code .
+3. Paste the code into the Arduino IDE.
+4. Upload the code to your Arduino board.
 
 ## Usage
 1. Configure the hardware according to the specifications:
