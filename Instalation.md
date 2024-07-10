@@ -1,10 +1,10 @@
-# Instalação
-1. Faça o download e instale o Arduino IDE.
+# Installation
+1. Download and install the Arduino IDE.
 
-2. Conecte sua placa Arduino ao computador usando um cabo USB.
+2. Connect your Arduino board to your computer using a USB cable.
 
-3. Copie o código fornecido abaixo.
+3. Copy the code given below.
 
-4. Cole o código no Arduino IDE.
+4. Paste the code into the Arduino IDE.
 
-5. Carregue o código na sua placa Arduino.
+5. Upload the code to your Arduino board.
