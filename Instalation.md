@@ -1,4 +1,4 @@
-#Instalação
+# Instalação
 1. Faça o download e instale o Arduino IDE.
 
 2. Conecte sua placa Arduino ao computador usando um cabo USB.
