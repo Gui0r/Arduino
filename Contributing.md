@@ -1,8 +1,6 @@
-# Contribuindo para o Código
-### Para contribuir para o desenvolvimento e melhoria deste código, siga os passos detalhados abaixo. Essas instruções abrangem desde a clonagem do repositório até o envio de suas alterações para revisão.
-
-# Clonar o Repositório:
-
-### Acesse o repositório do projeto no GitHub.
-### Faça um fork do repositório para o seu próprio GitHub.
-### Clone o repositório forkado para o seu ambiente local usando o comando
+# Contributing to the Code
+### To contribute to the development and improvement of this code, follow the steps detailed below. These instructions cover everything from cloning the repository to submitting your changes for review.
+# Clone the Repository:
+### Access the project repository on GitHub.
+### Fork the repository to your own GitHub.
+### Clone the forked repository to your local environment using the command
