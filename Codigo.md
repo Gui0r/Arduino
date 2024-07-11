@@ -31,13 +31,11 @@ int sumCarryBit(int bit1, int bit2, int carryIn) {
 void loop() {
     int sumControl = digitalRead(13); // Read the control signal
 
-    // Read the bits of the first 4-bit number
     int bit1a = digitalRead(0);
     int bit1b = digitalRead(1);
     int bit1c = digitalRead(2);
     int bit1d = digitalRead(3);
 
-    // Read the bits of the second 4-bit number
     int bit2a = digitalRead(4);
     int bit2b = digitalRead(5);
     int bit2c = digitalRead(6);
@@ -48,7 +46,7 @@ void loop() {
     if (sumControl == 1) { // If the control signal is active
         int carryIn = 0; // Initialize carry bit
 
-        // Calculate the sum and carry for each bit
+
         result1a = sumBit(bit1a, bit2a, carryIn);
         carryIn = sumCarryBit(bit1a, bit2a, carryIn);
         result1b = sumBit(bit1b, bit2b, carryIn);
